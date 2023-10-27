@@ -2,7 +2,8 @@ import { useState } from 'react'
 import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
-import addTask from "./components/AddTask";
+
+
 
 function App() {
     const [tasks, setTasks] = useState(
@@ -31,7 +32,7 @@ function App() {
         ]
     )
     //add task
-    const AddTask = (task) => {
+    const addTask = (task) => {
         console.log(task)
     }
 
