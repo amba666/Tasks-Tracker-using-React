@@ -20,14 +20,9 @@ function App() {
                 text:'Opensrp Work',
                 day: 'Oct 4th at 16:00pm',
                 reminder: true,
-            },
+            }
 
-            {
-                id:3,
-                text:'Church Work',
-                day: 'Nov 4th at 16:00pm',
-                reminder: false,
-            },
+
 
         ]
     )
