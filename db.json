@@ -7,10 +7,22 @@
       "id": 2
     },
     {
-      "text": "Kudeki ",
-      "day": "Asubui",
+      "text": "Soma Bible",
+      "day": "All day",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Workout ",
+      "day": "Evening ",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Dinner with her",
+      "day": "8:00pm",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
