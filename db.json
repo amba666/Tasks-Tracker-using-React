@@ -1,20 +1,14 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "March 4th at 16:00pm",
-      "reminder": true
+      "text": "Kusoma Bibilia",
+      "day": "Sunday",
+      "reminder": true,
+      "id": 2
     },
     {
-      "id": 2,
-      "text": "Opensrp Work",
-      "day": "Oct 4th at 16:00pm",
-      "reminder": true
-    },
-    {
-      "text": "Learn React ",
-      "day": "Today",
+      "text": "Kudeki ",
+      "day": "Asubui",
       "reminder": true,
       "id": 3
     }
